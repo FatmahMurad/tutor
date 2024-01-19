@@ -1,0 +1,9 @@
+{
+    "register": "Register",
+    "email": "Email",
+    "password": "Password",
+    "googleLogin": "Google Login",
+    "userName":"username",
+    "errorFetchingUsers":"errorFetchingUsers",
+    "users":"users"
+}
